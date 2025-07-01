@@ -44,3 +44,11 @@ When I step away from the screen, I recharge through:
 
 🏸 Badminton – Competitive, fast-paced, and strategic
 🏊‍♂️ Swimming – Helps maintain clarity and focus
+
+## 📫 Contact
+[![Email](https://img.shields.io/badge/Email-louisef639@gmail.com-red?logo=gmail&logoColor=white)](mailto:louisef639@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/louise-fernando-a02505304/)
+[![Instagram](https://img.shields.io/badge/Instagram-@louise.fernando123-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/louise.fernando123/)
+
+
+
