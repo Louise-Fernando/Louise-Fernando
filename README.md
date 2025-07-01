@@ -19,6 +19,7 @@ Tagline: Code. Learn. Improve. Repeat.
 
 ## 🔧 Projects
 Eatsway: A restaurant listing app in SwiftUI with AR Navigation
+
 Shadee: Shadee is a machine learning-powered app that helps users identify their skin tone and undertone directly from their face. Based on this analysis, Shadee provides personalized shade recommendations for beauty products like foundation, concealer, and skincare.
 ##
 
