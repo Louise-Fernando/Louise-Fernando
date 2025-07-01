@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 🔧 Projects
-
-Foozy 🍜 – A restaurant listing app in SwiftUI
-Bebas 🤚 - An app that provides a simpler way to learn sign language
-
-##
 👨‍💻 Software Engineer & Lifelong Learner
 Tagline: Code. Learn. Improve. Repeat.
+
+## 🔧 Projects
+Eatsway: A restaurant listing app in SwiftUI with AR Navigation
+Shadee: Shadee is a machine learning-powered app that helps users identify their skin tone and undertone directly from their face. Based on this analysis, Shadee provides personalized shade recommendations for beauty products like foundation, concealer, and skincare.
+##
+
 
 🚀 Skills
 Logo	Skill
