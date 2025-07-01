@@ -24,10 +24,11 @@ Shadee: Shadee is a machine learning-powered app that helps users identify their
 
 
 ## Language & Skills
-SwiftUI – Build modern and declarative UIs for iOS
-SwiftData – Handle persistence in iOS apps
-C Programming – Strong foundation in low-level programming
-Object-Oriented Programming (OOP) – Modular, reusable design patterns
+- SwiftUI – Build modern and declarative UIs for iOS
+- SwiftData – Handle persistence in iOS apps
+- C Programming – Strong foundation in low-level programming
+- Object-Oriented Programming (OOP) – Modular, reusable design patterns
+- MVVM
 
 ## 👋 About Me
 I’m a passionate software engineer and student driven by curiosity and the desire to create impactful digital experiences.
