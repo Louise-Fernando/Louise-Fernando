@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🔧 Projects
+
+Foozy 🍜 – A restaurant listing app in SwiftUI
+Bebas 🤚 - An app that provides a simpler way to learn sign language
+
+##
 👨‍💻 Software Engineer & Lifelong Learner
 Tagline: Code. Learn. Improve. Repeat.
 
