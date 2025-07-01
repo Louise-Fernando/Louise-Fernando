@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👨‍💻 Software Engineer & Lifelong Learner
+
 Tagline: Code. Learn. Improve. Repeat.
 
 ## 🔧 Projects
